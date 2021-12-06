@@ -95,9 +95,6 @@ button {
   overflow: visible;
   padding: 0;
   -webkit-appearance: button; /* for input */
-  -webkit-user-select: none; /* for button */
-  -moz-user-select: none;
-  -ms-user-select: none;
 }
 input::-moz-focus-inner,
 button::-moz-focus-inner {
